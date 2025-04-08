@@ -98,15 +98,25 @@ path : 대분류에서 소분류로 가도록 정의
 ---------------------------------
 
 todomate 기능 명세
+
 할 일 리스트업 : GET /todo/list
+
 할 일 등록 : POST /todo/{todoid}
+
 할 일 수정 : PATCH /todo/{todoid}
+
 할 일 제거 : DELETE /todo/{todoid}
+
 할 일 완료 : PATCH /todo/{todoid}/check
+
 할 일 완료 해제 : DELETE /todo/{todoid}/check
+
 팔로우 추가 : POST /todo/follow/{userId}
+
 팔로우 삭제 : DELETE /todo/follow/{userId}
+
 닉네임 변경 : PATCH /todo/nickname/{userId}
+
 친구 검색 : GET /todo/userlist/{userId}
 
 --------------------------------------
