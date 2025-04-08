@@ -108,8 +108,3 @@ todomate 기능 명세
 팔로우 삭제 : DELETE /todo/follow/{userId}
 닉네임 변경 : PATCH /todo/nickname/{userId}
 친구 검색 : GET /todo/userlist/{userId}
-<<<<<<< HEAD
-
-git remote remove https://github.com/kimdoes/gdg-2025-1-backend-study
-=======
->>>>>>> f0236a2874018cf44d558b0c08c1dda6db7e1ee4
