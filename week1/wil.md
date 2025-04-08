@@ -108,3 +108,5 @@ todomate 기능 명세
 팔로우 삭제 : DELETE /todo/follow/{userId}
 닉네임 변경 : PATCH /todo/nickname/{userId}
 친구 검색 : GET /todo/userlist/{userId}
+
+--------------------------------------
