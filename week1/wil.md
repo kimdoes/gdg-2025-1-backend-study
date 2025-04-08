@@ -120,3 +120,5 @@ todomate 기능 명세
 친구 검색 : GET /todo/userlist/{userId}
 
 --------------------------------------
+
+![alt text](gdg-backend1-homework-1.png)
